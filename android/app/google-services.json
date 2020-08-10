@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859759581698",
+    "firebase_url": "https://ofertas-igreja-flutter.firebaseio.com",
+    "project_id": "ofertas-igreja-flutter",
+    "storage_bucket": "ofertas-igreja-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859759581698:android:cb0f86f33c88bba2c3651b",
+        "android_client_info": {
+          "package_name": "com.pablo.ofertasigrejaflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859759581698-q3vrdlo6d72hld8mc1a3t6v7322ebo5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pablo.ofertasigrejaflutter",
+            "certificate_hash": "0d05c0719c56c1b7f35b5c94789121b28bbedc7c"
+          }
+        },
+        {
+          "client_id": "859759581698-l3ihcrq4bp5g0kfqtkf84l865v91q2o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzevfcu38uKmUjmJBtD1WNlm6xtfLH1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859759581698-l3ihcrq4bp5g0kfqtkf84l865v91q2o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
